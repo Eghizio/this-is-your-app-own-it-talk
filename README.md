@@ -2,7 +2,7 @@
 
 
 # Presentation
-TBD
+[Meet.js x STP - Kraków 12.10.2023](https://docs.google.com/presentation/d/1TmDsVInrHCDMJ6GHCzK3qHEmt0zk4YY8Iuds8TBnCyk/edit?usp=sharing)
 
 # Demos
 TBD
